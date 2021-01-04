@@ -1,0 +1,15 @@
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\bin\Debug\Sniper the Dummies WPF MOO ICT.exe.config
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\bin\Debug\Sniper the Dummies WPF MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\bin\Debug\Sniper the Dummies WPF MOO ICT.pdb
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\Sniper the Dummies WPF MOO ICT.csprojAssemblyReference.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\MainWindow.g.cs
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\App.g.cs
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\Sniper the Dummies WPF MOO ICT_MarkupCompile.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\Sniper the Dummies WPF MOO ICT_MarkupCompile.lref
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\MainWindow.baml
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\Sniper the Dummies WPF MOO ICT.g.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\Sniper_the_Dummies_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\Sniper the Dummies WPF MOO ICT.csproj.GenerateResource.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\Sniper the Dummies WPF MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\Sniper the Dummies WPF MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Sniper the Dummies WPF MOO ICT\Sniper the Dummies WPF MOO ICT\obj\Debug\Sniper the Dummies WPF MOO ICT.pdb
